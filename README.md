@@ -1,5 +1,7 @@
 # personal-projects
 
+**Basic Information**
+
 The "wuziqi" folder is a Gomoku game with an AI player as opponent
 
 **To Compile**
